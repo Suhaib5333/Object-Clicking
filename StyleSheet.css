@@ -1,0 +1,179 @@
+.heading1 {
+
+	color: yellow;
+	text-align: center;
+	font-family: Verdana;
+	font-size: 24px;
+
+}
+
+.incorrect {
+
+	color: orange;
+	text-align: center;
+	font-family: Impact;
+	font-size: 72px;
+
+}
+
+.restartandcontinue {
+
+	color: red;
+	text-align: center;
+	font-family: Impact;
+	font-size: 32px;
+	font-style: underline;
+
+}
+
+.home {
+
+	color: green;
+	font-family: Impact;
+	font-size: 24px;
+	text-align: center;
+
+}
+
+.homeheading {
+
+	color: yellow;
+	font-family: Impact;
+	font-size: 50px;
+	text-align: center;
+
+}
+
+.play {
+
+	color: blue;
+	font-family: Verdana;
+	font-size: 50px;
+	text-align: center;
+
+}
+
+.a1 {
+
+	text-decoration: none;
+	color: yellow;
+
+}
+
+.thing {
+
+	text-align: center;
+	font-size: 40px;
+	color: yellow;
+	font-family: Impact;
+	
+}
+
+.number {
+
+	font-size: 32px;
+	font-family: Times New Roman;
+	color: lightblue;
+	text-align: center;
+
+}
+
+.object1 {
+
+	width: 50px;
+	height: 50px;
+	color: red;
+	background-color: red;
+	
+}
+
+.object2 {
+
+	width: 30px;
+	height: 30px;
+	color: yellow;
+	background-color: red;
+	
+}
+
+.object3 {
+
+	width: 75px;
+	height: 75px;
+	color: orange;
+	background-color: orange;
+	
+}
+
+.object4 {
+
+	width: 30px;
+	height: 30px;
+	color: green;
+	background-color: green;
+
+}
+
+.object5 {
+
+	width: 100px;
+	height: 100px;
+	color: orange;
+	background-color: purple;
+	
+}
+
+.object6 {
+
+	width: 10px;
+	height: 10px;
+	color: blue;
+	background-color: blue;
+	
+}
+
+.object7 {
+
+	width: 100px;
+	height: 100px;
+	color: green;
+	background-color: green;
+
+}
+
+
+.object8 {
+
+	width: 1px;
+	height: 1px;
+	color: blue;
+	background-color: red;
+
+}
+
+.object9 {
+
+	width: 5px;
+	height: 5px;
+	color: blue;
+	background-color: blue;
+
+}
+
+.object10 {
+
+	width: 15px;
+	height: 15px;
+	color: white;
+	background-color: red;
+
+}
+
+.object11 {
+
+	width: 14px;
+	height: 14px;
+	color: white;
+	background-color: red;
+
+}
